@@ -35,9 +35,7 @@ This project is a static HTML and CSS project. Simply open the `index.html` file
 ## Screenshots
 
 
-![Amazon Clone Home Page](./image1.png)
-![Amazon Clone Product Section](./image2.png)
-![Amazon Clone Product Section](./image3.png)
+![Amazon Clone Home Page](./image1.png)![Amazon Clone Product Section](./image2.png)![Amazon Clone Product Section](./image3.png)
 
 ## Contributing
 
