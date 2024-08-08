@@ -36,11 +36,11 @@ This project is a static HTML and CSS project. Simply open the `index.html` file
 
 ### Home Page
 
-![Amazon Clone Home Page](./image1.jpg)
+![Amazon Clone Home Page](./image1.png)
 
 ### Product Section
 
-![Amazon Clone Product Section](./image2.jpg)
+![Amazon Clone Product Section](./image2.png)
 
 ## Contributing
 
