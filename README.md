@@ -34,15 +34,12 @@ This project is a static HTML and CSS project. Simply open the `index.html` file
 
 ## Screenshots
 
-### Home Page
 
 ![Amazon Clone Home Page](./image1.png)
 
-### Product Section
 
 ![Amazon Clone Product Section](./image2.png)
 
-### footer section
 
 ![Amazon Clone Product Section](./image3.png)
 
