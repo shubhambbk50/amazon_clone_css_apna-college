@@ -42,6 +42,10 @@ This project is a static HTML and CSS project. Simply open the `index.html` file
 
 ![Amazon Clone Product Section](./image2.png)
 
+### footer section
+
+![Amazon Clone Product Section](./image3.png)
+
 ## Contributing
 
 If you would like to contribute to this project, feel free to submit a pull request. Please make sure to follow the coding style and include appropriate documentation.
